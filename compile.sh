@@ -1,0 +1,1 @@
+g++ -o myauction main.cpp -I /usr/include -lodbc -w
